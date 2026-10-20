@@ -1,0 +1,9 @@
+Stage 24 recovery package static verification
+
+HTML entry: index.html
+Referenced local modules: 16
+Missing referenced local modules: 0
+Packaged JS files syntax checked with Node: 21 (all passed)
+Hat SVG assets checked: 4 (all present)
+
+This is static verification only; browser workflow regression still required. See PETPAL_PROJECT_BASELINE.md and tests/REGRESSION_CHECKLIST.md.
